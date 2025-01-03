@@ -1,7 +1,7 @@
 {
   "name": "forensic-report-generator",
   "version": "1.0.0",
-  "description": "AI-powered forensic report generator with feedback system",
+  "description": "Forensic report companion with feedback system",
   "main": "index.js",
   "scripts": {
     "dev": "netlify dev",
