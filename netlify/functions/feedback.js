@@ -4,7 +4,7 @@ exports.handler = async function(event, context) {
   console.log('Function started');
   console.log('Event body:', event.body);
   
-  const headers = {.
+  const headers = {
     'Access-Control-Allow-Origin': '*',
     'Access-Control-Allow-Headers': 'Content-Type',
     'Access-Control-Allow-Methods': 'POST, OPTIONS',
