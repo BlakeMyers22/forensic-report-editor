@@ -1,5 +1,5 @@
 {
-  "name": "forensic-report-generator",
+  "name": "forensic-report-companion",
   "version": "1.0.0",
   "description": "Forensic report companion with feedback system",
   "main": "index.js",
